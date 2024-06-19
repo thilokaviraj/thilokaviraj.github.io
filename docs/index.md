@@ -28,12 +28,10 @@ A computer programmer, entrepreneur, and freelancer. I’ve crafted innovative s
 Whether you use my project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects.
 <br>
 <br>
-<a href="https://paypal.me/thilokaviraj"> <img src="asset/image/paypal.svg" height="40" width="auto !important;"" alt="paypal" /></a>
+<a href="https://paypal.me/thilokaviraj"> <img src="asset/image/paypal.svg" height="40" width="auto !important;" alt="paypal" /></a>
 </td>
 </tr>
 </table>
-<br>
-<br>
 <br>
 <br>
 <h1> 👉 Follow me on social 👈 </h1>
@@ -46,7 +44,6 @@ Whether you use my project, have learned something from it, or just like it, ple
 <a href="https://github.com/thilokaviraj" target="blank"><img align="center" src="asset/image/social_media_icon/github.svg" alt="thilokaviraj" height="30" width="40" /></a>
 <a href="https://thilokaviraj.blogspot.com" target="blank"><img align="center" src="asset/image/social_media_icon/blogger.svg" alt="thilokaviraj" height="30" width="40" /></a>
 <a href="https://facebook.com/thilokaviraj" target="blank"><img align="center" src="asset/image/social_media_icon/facebook.svg" alt="thilokaviraj" height="30" width="40" /></a>
-</p>
 </td>
 </tr>
 </table>
